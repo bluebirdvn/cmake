@@ -1,0 +1,3 @@
+/home/shun/Desktop/cmake/mydir/CMakeFiles/calculator.dir
+/home/shun/Desktop/cmake/mydir/CMakeFiles/edit_cache.dir
+/home/shun/Desktop/cmake/mydir/CMakeFiles/rebuild_cache.dir

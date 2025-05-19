@@ -1,6 +1,6 @@
 #include"sum.h"
 
 float sum(float a, float b){
-	return a+b;
+	return 5+a+b;
 }
 
