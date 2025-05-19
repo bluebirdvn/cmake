@@ -1,6 +1,11 @@
 #include<iostream>
 
 using namespace std;
+float sum(float a, float b){
+	return a + b;}
+float divi(float a, float b){
+	return a/b;}
+
 
 int main(){
 	float f_no, se_no, re_add, re_div;
@@ -9,8 +14,6 @@ int main(){
 	cout<<endl;
 	cout<<"Enter second num: ";
 	cin>>se_no;
-	re_add = f_no + se_no;
-	re_div = f_no/se_no;
-	cout<<"Sum: "<<re_add<<". Division: "<<re_div<<endl;
+	cout<<"Sum: "<<sum(f_no, se_no)<<". Division: "<<divi(f_no, se_no)<<endl;
 	return 0;
 }
